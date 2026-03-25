@@ -1,0 +1,14 @@
+gym_app/
+│
+├── main.py
+├── ui/
+│   ├── dashboard.py
+│   ├── calendar_view.py
+│
+├── core/
+│   ├── scheduler.py
+│   ├── tracker.py
+│
+├── data/
+│   ├── gym_data.json
+│   ├── images/
